@@ -9,7 +9,7 @@
 - 🎓 BE IT Graduate 
 - 💻 Full Stack & MERN Stack Developer  
 - 🎨 Curious Creator | Design Storyteller  
-- 🚀 Passionate about UI/UX, Real-time Web Apps, and Clean Code   
+- 🚀 Passionate about AI, Web and Mobile Apps, and Clean Code   
 - 📍 Based in Mumbai | Open to PAN India / Remote / Abroad roles
 - 💼 Feel free to reach me out: [Aryan Nandanwar](mailto:aryan.nandanwar@gmail.com)
 
