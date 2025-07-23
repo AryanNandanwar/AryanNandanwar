@@ -51,6 +51,6 @@
 
 - 🧠 I **redesign boring UIs** into aesthetic, functional beauty.
 - ⏱️ I can **turn a napkin sketch into a production-ready app** in record time.
-- 🤖 Built **CRM for Business** and **canteen automation system** with real-time features.
+- 🤖 Built **CRM for Business** with real-time features.
 - 🎯 Obsessed with **micro-interactions**, **pixel-perfect designs**, and **clean, scalable architecture**.
 - 🔍 Always exploring the **intersection of creativity and logic**—because why not both?
