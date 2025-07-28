@@ -7,7 +7,7 @@
 ## 🌟 About Me
 
 - 🎓 BE IT Graduate 
-- 💻 Full Stack & MERN Stack Developer  
+- 💻 Software Developer  
 - 🎨 Curious Creator | Design Storyteller  
 - 🚀 Passionate about AI, Web and Mobile Apps, and Clean Code   
 - 📍 Based in Mumbai | Open to PAN India / Remote / Abroad roles
