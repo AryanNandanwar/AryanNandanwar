@@ -8,7 +8,7 @@
 
 - 🎓 BE IT Graduate 
 - 💻 Software Developer    
-- 🚀 Passionate about AI, Web and Mobile Apps, and Clean Code   
+- 🚀 Contributor @Hive   
 - 📍 Based in Mumbai | Open to PAN India / Remote / Abroad roles
 - 💼 Feel free to reach me out: [Aryan Nandanwar](mailto:aryan.nandanwar@gmail.com)
 
