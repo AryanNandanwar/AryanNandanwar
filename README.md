@@ -10,6 +10,7 @@
 - 💻 Software Developer    
 - 🚀 Contributor @Hive   
 - 📍 Based in Mumbai | Open to PAN India / Remote / Abroad roles
+- Shipped a Healthcare AI product - https://www.loom.com/share/d81c882c16ef4079be582e4d605a4ce6 
 - 💼 Feel free to reach me out: [Aryan Nandanwar](mailto:aryan.nandanwar@gmail.com)
 
 ---
